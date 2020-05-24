@@ -1,0 +1,21 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# CherryMX_CherryMX
+#
+DEF CherryMX_CherryMX SW 0 10 Y Y 1 F N
+F0 "SW" 100 125 50 H V C CNN
+F1 "CherryMX_CherryMX" 0 -75 50 H V C CNN
+F2 "" 0 25 50 H I C CNN
+F3 "" 0 25 50 H I C CNN
+DRAW
+C -80 0 20 1 1 0 N
+C 80 0 20 1 1 0 N
+P 2 1 1 0 0 50 0 120 N
+P 2 1 1 0 100 50 -100 50 N
+X ~ 1 -200 0 100 R 50 50 1 1 P
+X ~ 2 200 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

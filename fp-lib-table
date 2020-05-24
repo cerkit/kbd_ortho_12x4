@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name olkb_parts)(type KiCad)(uri C:/Development/keyboards/olkb_parts)(options "")(descr ""))
+  (lib (name planck)(type KiCad)(uri C:/Development/keyboards/olkb_parts/planck)(options "")(descr ""))
+)
