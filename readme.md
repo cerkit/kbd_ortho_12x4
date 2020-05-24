@@ -4,4 +4,6 @@ This isn't much to look at. It's basically a board to prevent me from having to 
 
 MIT license. Do what you want with it.
 
+Special thanks to [@tzarc](https://github.com/tzarc), [D3vastat0r](https://github.com/covah901), and [zvecr](https://github.com/zvecr) for answering my questions on the QMK Discord.
+
 ![cerkit 12x4 ortho](https://github.com/cerkit/kbd_ortho_12x4/blob/master/cerkit_ortho12x4.png?raw=true)
